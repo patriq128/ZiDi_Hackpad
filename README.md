@@ -37,6 +37,8 @@ The schematic is quite basic, but it works.
 
 <img src="assets/pcb.png" alt="pcb" width="775"/>
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fpatriq128%2FZiDi_Hackpad%2Ftree%2Fmain%2FPCB)
+
 ## Firmware
 
 I decided to make the firmware a separate project, so you can find it here:

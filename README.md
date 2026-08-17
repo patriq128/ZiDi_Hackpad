@@ -45,6 +45,10 @@ I decided to make the firmware a separate project, so you can find it here:
 
 [![PadeXa](https://img.shields.io/badge/PadeXa-black?style=for-the-badge)](https://github.com/patriq128/PadeXa)
 
+The `production` folder contains `firmware.uf2`, which is a compiled version of the CircuitPython firmware packaged as a UF2 file. This makes it easy to flash the firmware onto the Hackpad.
+
+> Want to create something similar yourself? Check out this guide: [Create Custom UF2 File for Easy CircuitPython Flashing](https://embeddedcomputing.com/technology/open-source/create-custom-uf2-file-for-easy-circuitpython-flashing)
+
 ## BOM
 
 * 6x Cherry MX switches
